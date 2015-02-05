@@ -1,0 +1,203 @@
+Regla 1 - El terreno de juego
+
+1- Dimensiones :
+El terreno de juego debe ser rectangular. De longitud 100 metros y anchura 70 metros.
+
+2- Marcado de campo :
+El terreno de juego debe marcarse con arreglo al plano adjunto.
+
+Las líneas más largas se llaman líneas de banda y las más cortas, líneas de meta.
+El centro del terreno de juego será indicado con un punto alrededor del cual se trazará
+un círculo de 9'15 metros de diámetro.
+
+3- Area de meta:
+A cada extremo del terreno y a 5'5 metros de cada poste del marco, se marcarán dos
+líneas perpendiculares a la línea de meta, que se adentrarán 5'5 metros en el terreno de
+juego y que se unirán en sus extremos mediante otra línea paralela a la meta. Cada uno
+de los dos espacios delimitados por estas líneas se denomina área de meta.
+
+4- Area de penal :
+A cada extremo del terreno de juego y a 16'5 metros de distancia de cada poste del
+marco, se trazarán dos líneas de 16'5 metros perpendiculares a la línea de meta. Estas
+
+19
+
+Lipidian Evolution Soccer
+
+dos líneas se unirán en sus extremos por otra, paralela a la línea de meta. La superficie
+comprendida entre estas líneas se denominará área penal.
+En cada área penal se marcará de forma visible un punto, que estará situado sobre una
+línea imaginaria perpendicular a la línea de meta en su centro, y a una distancia de 11
+metros de esta. Esta señal será el punto de ejecución del penal.
+Tomando como centro los puntos de penal, se trazará al exterior de cada área penal un
+arco de circunferencia de 9'15 metros de radio.
+
+5- Area de esquina:
+Desde cada banderola de esquina y en la parte interior del terreno de juego, se
+marcarán cuatro arcos de circunferencia de 1 metro de radio.
+
+6- Las porterias
+En el centro de cada línea de meta se colocaran los marcos, formados por dos postes
+verticales, equidistantes de las banderolas de esquina y separadas 7'32 metros entre sí
+(medida interior), unidos en sus extremos por un larguero horizontal cuyo borde inferior
+estará a 2'44 metros del suelo.
+
+Regla2 - El balón
+El balón será esférico; su cubierta ha de ser de cuero o de otro material aprobado.
+
+Regla 3 - Numero de jugadores
+1- El partido será jugado por dos equipos compuestos cada uno por 11 jugadores, de los
+cuales uno jugará como guardameta.
+
+2- Se podrán utilizar jugadores sustitutos en cualquier partido siempre que se atenga a
+las condiciones siguientes :
+(c)- que cualquier equipo no puede usar más de tres sustitutos en cualquier partido,
+escogidos de los 7 que pueden ser requeridos a presentarse.
+
+3- Cualquiera de los otros jugadores podrá cambiar su puesto con el guardameta siempre
+que el árbitro haya sido previamente informado, y siempre también que el cambio sea
+efectuado durante una detención del juego.
+
+4- Se estima que un encuentro no puede ser considerado normal si hay menos de siete
+jugadores en uno de los dos equipos.
+
+Regla 4 - Duración del partido
+
+El partido comprenderá dos tiempos iguales de 45 minutos cada uno, exceptuando  que
+la duración de cada período deberá ser prolongada a fin de permitir la ejecución de un
+penal.
+
+Los jugadores tienen derecho a un descanso en el medio tiempo. El descanso entre los
+dos tiempos no podrá exceder de cinco minutos, a menos que lo autorice el árbitro.
+
+20
+
+Lipidian Evolution Soccer
+
+Regla 5 - Saque de salida
+
+(a) Al iniciarse el partido (saque de comienzo), la elección de campos y del saque de
+comienzo se sorteará mediante una moneda. A una señal del árbitro, el juego comenzará
+con un saque a balón parado, es decir, con un puntapié dado, en dirección al campo
+contrario, al balón colocado en tierra en el centro del terreno. Todos los jugadores
+deberán estar situados en su propio campo y los del bando contrario a aquel que efectúa
+el saque de salida no podrán acercarse a menos de 9'15 metros. del balón antes de que
+el saque haya sido ejecutado.
+
+(b) Después de marcado un tanto. El juego se reanudará de la misma forma antes
+indicada, haciendo el saque de salida un jugador del bando contrario al que marcó el
+tanto.
+
+(c) Después del descanso, los equipos cambiarán de campo y el saque de salida lo
+efectuará un jugador del bando contrario al que marcó el tanto.
+
+Regla 6 - Tanto marcado
+
+Se ganará un tanto cuando el balón haya traspasado totalmente la línea de meta entre
+los postes y por debajo del larguero sin que haya sido llevado, lanzado o
+intencionadamente golpeado con la mano o el brazo por cualquier jugador del equipo
+atacante, excepto en el caso de que lo haga el guardameta que se halle en su propia
+área de penal.
+El equipo que haya marcado mayor numero de tantos ganará el partido; Si no se hubiese
+marcado ningún tanto, o si ambos equipos han logrado igual numero de ellos, el partido
+se considerará empatado.
+
+Regla 7 - Fuera de juego
+
+1- un jugador está en posición de fuera de juego si se encuentra más cerca de la línea de
+meta contraria que el balón, salvo :
+
+(a) Que se encuentre en su propia mitad del terreno.
+
+(b) Que haya entre él y la línea de meta contraria dos adversarios por lo menos.
+
+2- Un jugador solamente será declarado fuera de juego y sancionado por estar en
+posición de fuera de juego si, en el momento en que el balón toca o es jugado por un
+compañero, él está, según el árbitro :
+
+(a) Interfiriendo el juego o a un contrario.
+
+(b) Tratando de sacar ventaja de esta posición.
+
+3- Un jugador no será declarado fuera de juego por el árbitro :
+
+(a) Simplemente por encontrarse en una posición de fuera de juego.
+
+(b) Si recibe la pelota directamente de un saque de meta, saque de esquina, saque de
+banda o de un balón a tierra del árbitro.
+
+21
+
+Lipidian Evolution Soccer
+
+4- Si un jugador es declarado fuera de juego, el árbitro deberá otorgar un tiro libre
+indirecto que será lanzado por un jugador del equipo contrario desde el lugar donde se
+cometió la falta, a menos que la infracción sea cometida por un jugador en el área de
+meta contraria. En este caso, el tiro libre podrá ser lanzado desde cualquier lugar
+dentro de aquella mitad del área de meta en la cual se cometió la falta.
+
+Regla 8 - Faltas e incorrecciones
+Un jugador que comete intencionadamente una de las nueve faltas siguientes :
+
+(a) Dar o intentar dar una patada a un contrario.
+
+(b) Poner una zancadilla a un contrario, es decir, hacerle caer o intentarlo, sea por
+medio de la pierna o agachándose delante o detrás de él.
+
+(c) Saltar sobre un adversario.
+
+(d) Cargar violenta o peligrosamente a un contrario.
+
+(e) Cargar por detrás a un adversario que no hace obstrucción.
+
+(f) Golpear o intentar golpear a un adversario o escupirlo.
+
+(g) Sujetar a un adversario.
+
+(h) Empujar a un adversario.
+
+(i) Jugar el balón es decir, llevarlo, golpearlo o lanzarlo con la mano o el brazo (esta
+disposición no es aplicable al guardameta dentro de su propia área de penal)
+
+Será castigado con golpe franco directo, concedido al equipo contrario en el sitio donde
+la falta fue cometida, a menos que la infracción fuera por un jugador en el área de meta
+contraria. En este caso, el tiro libre podrá ser lanzado de cualquier lugar de aquella
+mitad del área de meta en la cual se cometió la falta.
+Si un jugador del equipo defensor comete intencionadamente dentro del área penal una
+de las nueve faltas anteriormente indicadas, será castigado con un penal.
+
+Regla 9 - Penal
+El penal se tirará desde el punto de penal y, antes de que se ejecute, todos los
+jugadores, a excepción del que va a ejecutar el castigo y del guardameta adversario,
+deberán estar en el interior del campo de juego, pero fuera del área de penal y
+distanciados por lo menos 9'15 metros del punto de penal.
+En caso de necesidad, podrá prolongarse la duración del juego al final de la primera
+parte o del partido, con objeto de permitir la ejecución de un penal.
+
+Regla 10 - Saque de banda
+Cuando el balón en su totalidad haya traspasado la línea de banda, ya sea por tierra o
+por aire, será puesto nuevamente en juego lanzándolo al interior del campo en cualquier
+dirección, desde el punto por el que franqueó la línea, por un jugador del equipo
+contrario al del que tocó el balón en ultimo lugar.
+
+22
+
+Lipidian Evolution Soccer
+
+Regla 11 - Saque de meta
+Cuando el balón en su totalidad haya traspasado la línea de meta, excluida la parte
+comprendida entre los postes del marco, ya sea por tierra o por aire, habiendo sido
+jugada en ultimo termino por un jugador del equipo atacante, se colocara en un punto
+cualquiera de aquella mitad del área de meta mas cercana al sitio por el cual cruzo la
+línea, y será lanzado con el pie, directamente al juego más allá del área penal, por un
+jugador del equipo defensor.
+
+Regla 12 - Saque de esquina
+Cuando el balón en su totalidad haya traspasado la línea de meta, excluida la parte
+comprendida entre los postes del marco, ya sea por tierra o por aire, habiendo sido
+jugado en ultimo termino por un jugador del equipo defensor, se concederá un saque de
+esquina, que será lanzado por un jugador del equipo atacante así : todo el balón será
+colocado en el interior del cuarto de circulo correspondiente a la banderola de esquina
+más cercana al sitio por donde salió el balón, banderola que no podrá ser trasladada, y
+es de este lugar de donde será lanzado el balón. Podrá ganarse un tanto directamente
+de un saque de esquina.

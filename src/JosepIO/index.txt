@@ -1,0 +1,8 @@
+Conte les classes programades per Josep Mateu Clemente
+
+IOMain.java - Classe de proves
+
+
+IO.java - Capa de Gestió
+DataWriter.java - Complement per a poder tenir dades guardades en format 
+de nomès lectura, per a la posterior utilització per la capa de gesitó

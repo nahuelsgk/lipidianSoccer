@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<iaconf>
+  <posicionCorner>
+    <!--
+Posicion Corner: valores posibles (0,1)
+0: Los jugadores no se posicionan en formacion cuando ocurre un corner
+1: Los jugadores se posicionan estrategicamente cuando ocurre un corner
+-->
+    <nombre>Posicion de los jugadores en el corner</nombre>
+    
+  <posicionCorner>
+      <valor>1</valor>
+    </posicionCorner>
+  </posicionCorner>
+  <zonaDinamica>
+    <!--
+ Zona dinamica: valore posible (0,1)
+0: Los jugadores juegan de forma estatica manteniendo sus posiciones
+1: Los jugadores juegan dinamicamente
+ -->
+    <nombre>Zona Dinamica</nombre>
+    
+  <zonaDinamica>
+      <valor>1</valor>
+    </zonaDinamica>
+  </zonaDinamica>
+  <cansancio>
+    <!--
+Por defecto 1.
+ Si el valor < 1 los futbolistas arriesgan mas y se cansan mas.
+ Si el valor es > 1 al reves
+-->
+    <nombre>Configuracion del cansancio de los jugadores</nombre>
+    
+  <cansancio>
+      <valor>1.0</valor>
+    </cansancio>
+  </cansancio>
+  <presion>
+    <!--
+Por defecto 1. Si el valor < 1 la presion influye mas. Si valor > 1 la presion influye menos
+-->
+    <nombre>Presion hacia los jugadores</nombre>
+    
+  <presion>
+      <valor>1.0</valor>
+    </presion>
+  </presion>
+  <nivelCompanero>
+    <!--
+Por defecto 1. 
+Peso del nivel del companero para elegir pase.
+-->
+    <nombre>Peso del nivel companero</nombre>
+    
+  <nivelCompanero>
+      <valor>1.0</valor>
+    </nivelCompanero>
+  </nivelCompanero>
+  <intercepcion>
+    <!--
+Por defecto 2. 
+ Peso de los rivales que interceptan un pase.
+-->
+    <nombre>Peso de la intercepcion</nombre>
+    
+  <intercepcion>
+      <valor>2.0</valor>
+    </intercepcion>
+  </intercepcion>
+  <distanciaPase>
+    <!--
+Por defecto 1. 
+Peso de la distancia para realizar un pase.
+-->
+    <nombre>Distancia Pase</nombre>
+    
+  <distanciaPase>
+      <valor>1.0</valor>
+    </distanciaPase>
+  </distanciaPase>
+  <distanciaPoteria>
+    <!--
+Por defecto 3. 
+Peso de la distancia a porteria para realizar un pase.
+-->
+    <nombre>Distancia a porteria</nombre>
+    
+  <distanciaPoteria>
+      <valor>3.0</valor>
+    </distanciaPoteria>
+  </distanciaPoteria>
+  <random>
+    <!--
+Por defecto 1.
+ Peso de los valores aleatorios para seleccionar pases.
+-->
+    <nombre>Random</nombre>
+    
+  <random>
+      <valor>1.0</valor>
+    </random>
+  </random>
+  <fueraJuego>
+    <!--
+Por defecto 1.
+ Peso del fuera de juego.
+-->
+    <nombre>Peso del fuera de Juego</nombre>
+    
+  <fueraJuego>
+      <valor>1.0</valor>
+    </fueraJuego>
+  </fueraJuego>
+</iaconf>
